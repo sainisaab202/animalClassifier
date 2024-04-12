@@ -1,4 +1,4 @@
-![](screenshot/img_dog.gif)  ![](screenshot/img_cat.gif)  ![](screenshot/img_rabbit.gif)  
+![](screenshot/img_dog.PNG)  ![](screenshot/img_cat.PNG)  ![](screenshot/img_rabbit.PNG)  
 
 
 # AnimalClassifier
