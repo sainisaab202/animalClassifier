@@ -1,4 +1,4 @@
-![](screenshot/app.gif)  
+![](screenshot/img_dog.gif)  ![](screenshot/img_cat.gif)  ![](screenshot/img_rabbit.gif)  
 
 
 # AnimalClassifier
